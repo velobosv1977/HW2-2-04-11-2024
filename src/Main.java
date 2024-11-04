@@ -93,9 +93,5 @@ public class Main {
         float kristinaMonthNew =kristinaMonth*1.1f;
         float kristinaYearDiff=kristinaMonthNew *12-kristinaMonth*12;
         System.out.println("Кристина теперь получает "+kristinaMonthNew+ "рублей в месяц. Годовой доход вырос на "+kristinaYearDiff+" рублей");
-        System.out.println("Конец ДЗ2-2");
-
-
-
     }
 }
